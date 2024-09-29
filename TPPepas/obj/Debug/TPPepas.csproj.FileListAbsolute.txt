@@ -1,0 +1,930 @@
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmFacturaciones.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmPrincipal.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\bin\Debug\TPPepas.exe.config
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\bin\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\bin\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\obj\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\Segunda Cuatrimestre\TP De Mierda\TPPepas\obj\Debug\TPPepas.pdb
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\bin\Debug\TPPepas.exe.config
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\bin\Debug\TPPepas.exe
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\bin\Debug\TPPepas.pdb
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmFacturaciones.resources
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmPrincipal.resources
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.exe
+C:\Users\kuked\Source\Repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.pdb
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarCliente.resources
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarClientes.resources
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarVEntas.resources
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProducto.resources
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProductos.resources
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProvedor.resources
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProvedor.resources
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\EnvDTE.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\stdole.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.Reportes.ReporteVentas.resources
+C:\Users\kuked\source\repos\tp_de_pepas2\TPPepas\obj\Debug\TPPepas.csproj.CopyComplete
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\TPPepas.exe.config
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\EnvDTE.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\stdole.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProvedor.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProvedor.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarClientes.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarCliente.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProducto.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProductos.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarVEntas.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmFacturaciones.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmPrincipal.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Reportes.ReporteVentas.resources
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.CopyComplete
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\C#\Windows Form\GitHub\tp_de_pepas\TPPepas\obj\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProvedor.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarClientes.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarCliente.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProducto.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProductos.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarVentas.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmFacturaciones.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2._0.LOGIN.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Reportes.ReporteVentas.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProveedor.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\TPPepas.exe.config
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\EnvDTE.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\stdole.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.csproj.CopyComplete
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmPrincipal.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\TPPepas.exe.config
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\TPPepas.exe
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\TPPepas.pdb
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\EnvDTE.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\stdole.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.SuggestedBindingRedirects.cache
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProveedor.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarClientes.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarCliente.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProducto.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProductos.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarVentas.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmFacturaciones.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmPrincipal.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2._0.LOGIN.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Reportes.ReporteVentas.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.CopyComplete
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.exe
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProvedor.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProveedor.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarClientes.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarCliente.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmAgregarProducto.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarProductos.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmConsultarVentas.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmFacturaciones.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmFacturacionesBusqueda.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.FrmPrincipal.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2._0.LOGIN.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Reportes.ReporteVentas.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\TPPepas.exe.config
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\EnvDTE.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\stdole.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.CopyComplete
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmFacturacionesBusqueda.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\TPPepas - Ultimo Git 19-10\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmFacturacionesReceta.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones.frmFacturacionesReceta.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmError.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmExito.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir2.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir3.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmConsultarVentas.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturaciones.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturacionesBusqueda.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturacionesReceta.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.FrmPrincipal.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Login.FrmLogin.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Login.FrmUsuario.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Reportes.ReporteVentas.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\TPPepas.exe.config
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\TPPepas.exe
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\TPPepas.pdb
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\EnvDTE.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\stdole.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.csproj.CopyComplete
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmAgregarClientes.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmConsultarClientes.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProductos.FrmAgregarProductos.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProductos.FrmConsultarProducto.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProveedores.FrmAgregarProveedor.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProveedores.FrmConsultarProveedor.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PPedidos.FrmAgregarPedidos.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PPedidos.FrmConsultarPedido.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmError.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmExito.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir2.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir3.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmAgregarClientes.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmConsultarClientes.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmConsultarVentas.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturaciones.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturacionesBusqueda.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturacionesReceta.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.FrmPrincipal.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Login.FrmLogin.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Login.FrmUsuario.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PPedidos.FrmAgregarPedidos.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PPedidos.FrmConsultarPedido.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProductos.FrmAgregarProductos.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProductos.FrmConsultarProducto.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProveedores.FrmAgregarProveedor.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProveedores.FrmConsultarProveedor.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tpDePepas\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmModificarCliente.resources
+C:\Users\Rami\Desktop\Proyectos\TP DE MIERDA\Code\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmModificarCliente.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.SuggestedBindingRedirects.cache
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmError.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmExito.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir2.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir3.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmAgregarClientes.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmConsultarClientes.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmModificarCliente.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmConsultarVentas.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturaciones.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturacionesBusqueda.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturacionesReceta.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.FrmPrincipal.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Login.FrmLogin.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Login.FrmUsuario.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PPedidos.FrmAgregarPedidos.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PPedidos.FrmConsultarPedido.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProductos.FrmAgregarProductos.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProductos.FrmConsultarProducto.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProveedores.FrmAgregarProveedor.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProveedores.FrmConsultarProveedor.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.Reportes.ReporteVentas.resources
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.exe
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.pdb
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\TPPepas.exe.config
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\TPPepas.exe
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\TPPepas.pdb
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\EnvDTE.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\stdole.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\joseg\OneDrive\Documentos\UTN Cba\TP II\tp_de_pepas\TPPepas\obj\Debug\TPPepas.csproj.CopyComplete
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.csproj.AssemblyReference.cache
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.exe
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.pdb
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\TPPepas.exe.config
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\TPPepas.exe
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\TPPepas.pdb
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\EnvDTE.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\stdole.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\Microsoft.MSXML.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\EnvDTE.xml
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmError.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmExito.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir2.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSalir3.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmAgregarClientes.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmConsultarClientes.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PClientes.FrmModificarCliente.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmConsultarVentas.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturaciones.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturacionesBusqueda.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Facturaciones.FrmFacturacionesReceta.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.FrmPrincipal.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Login.FrmLogin.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Login.FrmUsuario.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PPedidos.FrmAgregarPedidos.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PPedidos.FrmConsultarPedido.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProductos.FrmAgregarProductos.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProductos.FrmConsultarProducto.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProveedores.FrmAgregarProveedor.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.PProveedores.FrmConsultarProveedor.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Properties.Resources.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Reportes.ReporteVentas.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.csproj.GenerateResource.cache
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.csproj.CopyComplete
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmCancelar.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Avisos.FrmSeleccionCliente.resources
+E:\Users\Usuario\Desktop\tp_de_pepas-main\TPPepas\obj\Debug\TPPepas.Presentaciones_2.Consultas.FrmConsultas.resources

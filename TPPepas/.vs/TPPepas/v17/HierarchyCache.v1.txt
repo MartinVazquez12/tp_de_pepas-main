@@ -1,0 +1,606 @@
+﻿++Solución "TPPepas" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:TPPepas.sln
+++TPPepas
+i:{00000000-0000-0000-0000-000000000000}:TPPepas
+++Properties
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\properties\
+++Referencias
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Configuracion
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\configuracion\
+++Datos
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\
+++Implementacion
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\
+++ClientesDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\clientesdao.cs
+++DetallesFacturaDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\detallesfacturadao.cs
+++EmpleadosDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\empleadosdao.cs
+++FacturasDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\facturasdao.cs
+++LaboratoriosDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\laboratoriosdao.cs
+++LotesDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\lotesdao.cs
+++MedicosDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\medicosdao.cs
+++PedidosDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\pedidosdao.cs
+++ProductosDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\productosdao.cs
+++ProveedoresDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\proveedoresdao.cs
+++RecetasDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\recetasdao.cs
+++SucursalesDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\sucursalesdao.cs
+++TablasAuxiliaresDAO.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\implementacion\tablasauxiliaresdao.cs
+++Interfaz
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\
+++IClientes.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\iclientes.cs
+++IDetallesFactura.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\idetallesfactura.cs
+++IEmpleados.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\iempleados.cs
+++IFacturas.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\ifacturas.cs
+++ILaboratorios.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\ilaboratorios.cs
+++ILotes.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\ilotes.cs
+++IMedicos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\imedicos.cs
+++IPedidos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\ipedidos.cs
+++IProductos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\iproductos.cs
+++IProveedores.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\iproveedores.cs
+++IRecetas.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\irecetas.cs
+++ISucursales.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\isucursales.cs
+++ITablasAuxiliares.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\interfaz\itablasauxiliares.cs
+++AccesoDatos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\datos\accesodatos.cs
+++Entidades
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\
+++Clientes.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\clientes.cs
+++DetallesFactura.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\detallesfactura.cs
+++Empleados.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\empleados.cs
+++Facturas.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\facturas.cs
+++Laboratorios.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\laboratorios.cs
+++Lotes.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\lotes.cs
+++Medicos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\medicos.cs
+++Pedidos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\pedidos.cs
+++Personas.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\personas.cs
+++Productos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\productos.cs
+++Proveedores.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\proveedores.cs
+++Recetas.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\recetas.cs
+++Reembolsos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\reembolsos.cs
+++Respaldos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\respaldos.cs
+++Sucursales.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\sucursales.cs
+++TablasAuxiliares.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\entidades\tablasauxiliares.cs
+++Factory
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\factory\
+++Presentaciones
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\
+++Presentaciones 2
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\
+++Reportes
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\
+++Resources
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\
+++Servicio
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\servicio\
+++SqlServerTypes
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\
+++app.config
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\app.config
+++packages.config
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\packages.config
+++AssemblyInfo.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\properties\assemblyinfo.cs
+++Resources.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\properties\resources.resx
+++Settings.settings
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\properties\settings.settings
+++Microsoft.CSharp
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Microsoft.ReportViewer.Common
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Microsoft.ReportViewer.DataVisualization
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Microsoft.ReportViewer.Design
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Microsoft.ReportViewer.ProcessingObjectModel
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Microsoft.ReportViewer.WebDesign
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Microsoft.ReportViewer.WebForms
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Microsoft.ReportViewer.WinForms
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++Microsoft.SqlServer.Types
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Core
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Data
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Data.DataSetExtensions
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Deployment
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Drawing
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Net.Http
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Windows.Forms
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Xml
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++System.Xml.Linq
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:
+++App.config
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\configuracion\app.config
+++Program.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\configuracion\program.cs
+++FactoryAbs.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\factory\factoryabs.cs
+++FactoryImp.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\factory\factoryimp.cs
+++frmAgregarCliente.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarcliente.cs
+++frmAgregarProducto.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarproducto.cs
+++frmAgregarProveedor.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarproveedor.cs
+++frmConsultarCliente.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarcliente.cs
+++frmConsultarProductos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarproductos.cs
+++frmConsultarVentas.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarventas.cs
+++FrmFacturaciones.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturaciones.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturaciones.cs
+++frmFacturacionesBusqueda.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturacionesbusqueda.cs
+++frmFacturacionesReceta.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturacionesreceta.cs
+++frmPRINCIPAL.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmprincipal.cs
+++LOGIN.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\login.cs
+++Avisos
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\
+++Clientes
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\
+++Facturaciones
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\
+++Login
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\login\
+++Pedidos
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\pedidos\
+++Productos
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\productos\
+++Proveedores
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\proveedores\
+++FrmPrincipal.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\frmprincipal.cs
+++Datos_reporte.xsd
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\datos_reporte.xsd
+++Reporte_ventas.rdlc
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\reporte_ventas.rdlc
+++ReporteVentas.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\reporteventas.cs
+++139-1390528_linea-linea-png-fotor-bg-remover-20231017152816.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\139-1390528_linea-linea-png-fotor-bg-remover-20231017152816.png
+++179222208-mermelada-de-frutas-mixtas-preparada-y-almacenada-en-frasco-con-tapa-hermética-fotor-bg-remover-20231017185738-removebg-preview (1).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\179222208-mermelada-de-frutas-mixtas-preparada-y-almacenada-en-frasco-con-tapa-hermética-fotor-bg-remover-20231017185738-removebg-preview (1).png
+++179222208-mermelada-de-frutas-mixtas-preparada-y-almacenada-en-frasco-con-tapa-hermética-fotor-bg-remover-20231017185738-removebg-preview.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\179222208-mermelada-de-frutas-mixtas-preparada-y-almacenada-en-frasco-con-tapa-hermética-fotor-bg-remover-20231017185738-removebg-preview.png
+++179222208-mermelada-de-frutas-mixtas-preparada-y-almacenada-en-frasco-con-tapa-hermética-fotor-bg-remover-20231017185738.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\179222208-mermelada-de-frutas-mixtas-preparada-y-almacenada-en-frasco-con-tapa-hermética-fotor-bg-remover-20231017185738.png
+++3917058.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\3917058.png
+++39170581.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\39170581.png
+++86906b68d2a52712a832657c52de4815-divisor-de-linea-de-borde-adornado.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\86906b68d2a52712a832657c52de4815-divisor-de-linea-de-borde-adornado.png
+++92270074-botC3B3n-verde-aislado-moderno-tick-removebg-preview.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\92270074-botc3b3n-verde-aislado-moderno-tick-removebg-preview.png
+++A766764-fotor-bg-remover-2023101718220.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\a766764-fotor-bg-remover-2023101718220.png
+++ajustes.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\ajustes.png
+++apoyar.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\apoyar.png
+++bienvenido.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\bienvenido.png
+++Blue-Line-PNG-Free-Download-removebg-preview.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\blue-line-png-free-download-removebg-preview.png
+++Blue-Line-PNG-Free-Download.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\blue-line-png-free-download.png
+++Blue-Line-PNG-Picture.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\blue-line-png-picture.png
+++boton-de-encendido (1).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\boton-de-encendido (1).png
+++boton-de-encendido.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\boton-de-encendido.png
+++cerrar.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\cerrar.png
+++cerrar1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\cerrar1.png
+++cerrar11.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\cerrar11.png
+++check-symbol-in-green-button-free-vector-removebg-preview.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\check-symbol-in-green-button-free-vector-removebg-preview.png
+++check-symbol-in-green-button-free-vector-removebg-preview1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\check-symbol-in-green-button-free-vector-removebg-preview1.png
+++circulo-de-usuario (1).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\circulo-de-usuario (1).png
+++circulo-de-usuario (2).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\circulo-de-usuario (2).png
+++clientes.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\clientes.png
+++clientes1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\clientes1.png
+++compras.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\compras.png
+++compras1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\compras1.png
+++compras2.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\compras2.png
+++cuadricula.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\cuadricula.png
+++DEFINITIVO.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\definitivo.png
+++DEFINITIVO1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\definitivo1.png
+++Dialogo-removebg-preview.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\dialogo-removebg-preview.png
+++Dialogo.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\dialogo.png
+++Dialogo1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\dialogo1.png
+++doctor_icon_134827.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\doctor_icon_134827.png
+++en-el-boton.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\en-el-boton.png
+++FARMACIA-fotor-bg-remover-2023102702628.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\farmacia-fotor-bg-remover-2023102702628.png
+++icone-trait-vert-removebg-preview.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\icone-trait-vert-removebg-preview.png
+++images-fotor-bg-remover-2023102703655.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\images-fotor-bg-remover-2023102703655.png
+++images-fotor-bg-remover-2023102704422.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\images-fotor-bg-remover-2023102704422.png
+++images-fotor-bg-remover-2023102704923.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\images-fotor-bg-remover-2023102704923.png
+++images-fotor-bg-remover-202310270546.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\images-fotor-bg-remover-202310270546.png
+++IMG-20231027-WA0003-removebg-preview.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\img-20231027-wa0003-removebg-preview.png
+++login-buttons-sign-label-speech-login-vector-fotor-bg-remover-20231017154555.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\login-buttons-sign-label-speech-login-vector-fotor-bg-remover-20231017154555.png
+++logo-_x100.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logo-_x100.png
+++logo-_x1001.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logo-_x1001.png
+++logo-_x1002.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logo-_x1002.png
+++logoDEFINITIVO.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logodefinitivo.png
+++logoDEFINITIVO1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logodefinitivo1.png
+++logoDEFINITIVO2.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logodefinitivo2.png
+++LOGODEFINITIVOalternativo.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logodefinitivoalternativo.png
+++LOGODEFINITIVOalternativo1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logodefinitivoalternativo1.png
+++LogoDeMarca.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logodemarca.png
+++LogoDeMarca1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logodemarca1.png
+++Loguete-fotor-bg-remover-2023102715649.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\loguete-fotor-bg-remover-2023102715649.png
+++Loguete.PNG
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\loguete.png
+++Loguete1.PNG
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\loguete1.png
+++LoguetePRUEBA.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\logueteprueba.png
+++maxi.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\maxi.png
+++maximizar.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\maximizar.png
+++minimazar.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\minimazar.png
+++minimizar-signo.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\minimizar-signo.png
+++minimizar.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\minimizar.png
+++minimizar1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\minimizar1.png
+++pagos.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pagos.png
+++pagos1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pagos1.png
+++perfil.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\perfil.png
+++photo-1607619056574-7b8d3ee536b2.jpeg
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\photo-1607619056574-7b8d3ee536b2.jpeg
+++photo-1607619056574-7b8d3ee536b21.jpeg
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\photo-1607619056574-7b8d3ee536b21.jpeg
+++pngwing.com (1).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (1).png
+++pngwing.com (12).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (12).png
+++pngwing.com (13).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (13).png
+++pngwing.com (13)1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (13)1.png
+++pngwing.com (2).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (2).png
+++pngwing.com (3).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (3).png
+++pngwing.com (4).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (4).png
+++pngwing.com (4)1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (4)1.png
+++pngwing.com (5).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (5).png
+++pngwing.com (6).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (6).png
+++pngwing.com (7).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (7).png
+++pngwing.com (8).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (8).png
+++pngwing.com (9).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (9).png
+++pngwing.com (9)1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\pngwing.com (9)1.png
+++preferences_options_setting_ui_cogwheel_configuration_gear_wheel_settings_icon_210824.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\preferences_options_setting_ui_cogwheel_configuration_gear_wheel_settings_icon_210824.png
+++producto.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\producto.png
+++reportes.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\reportes.png
+++reportes1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\reportes1.png
+++res.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\res.png
+++Sin_tituloaaa-removebg-preview.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\sin_tituloaaa-removebg-preview.png
+++user (1).png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\user (1).png
+++user.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\user.png
+++venta.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\venta.png
+++venta1.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\venta1.png
+++venta2.png
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\resources\venta2.png
+++IServicios.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\servicio\iservicios.cs
+++Servicios.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\servicio\servicios.cs
+++x64
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\x64\
+++x86
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\x86\
+++Loader.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\loader.cs
+++readme.htm
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\readme.htm
+++Resources.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\properties\settings.designer.cs
+++frmAgregarCliente.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarcliente.designer.cs
+++frmAgregarCliente.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarcliente.resx
+++frmAgregarProducto.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarproducto.designer.cs
+++frmAgregarProducto.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarproducto.resx
+++frmAgregarProveedor.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarproveedor.designer.cs
+++frmAgregarProveedor.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmagregarproveedor.resx
+++frmConsultarCliente.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarcliente.designer.cs
+++frmConsultarCliente.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarcliente.resx
+++frmConsultarProductos.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarproductos.designer.cs
+++frmConsultarProductos.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarproductos.resx
+++frmConsultarVentas.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarventas.designer.cs
+++frmConsultarVentas.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmconsultarventas.resx
+++FrmFacturaciones.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturaciones.designer.cs
+++FrmFacturaciones.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturaciones.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturaciones.resx
+++frmFacturacionesBusqueda.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturacionesbusqueda.designer.cs
+++frmFacturacionesBusqueda.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturacionesbusqueda.resx
+++frmFacturacionesReceta.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturacionesreceta.designer.cs
+++frmFacturacionesReceta.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmfacturacionesreceta.resx
+++frmPRINCIPAL.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmprincipal.designer.cs
+++frmPRINCIPAL.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\frmprincipal.resx
+++LOGIN.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\login.designer.cs
+++LOGIN.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones\login.resx
+++FrmError.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmerror.cs
+++FrmExito.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmexito.cs
+++FrmSalir.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir.cs
+++FrmSalir2.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir2.cs
+++FrmSalir3.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir3.cs
+++FrmAgregarClientes.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmagregarclientes.cs
+++FrmConsultarClientes.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmconsultarclientes.cs
+++FrmModificarCliente.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmmodificarcliente.cs
+++FrmConsultarVentas.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmconsultarventas.cs
+++FrmFacturacionesBusqueda.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturacionesbusqueda.cs
+++FrmFacturacionesReceta.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturacionesreceta.cs
+++FrmLogin.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\login\frmlogin.cs
+++FrmUsuario.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\login\frmusuario.cs
+++FrmAgregarPedidos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\pedidos\frmagregarpedidos.cs
+++FrmConsultarPedido.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\pedidos\frmconsultarpedido.cs
+++FrmAgregarProductos.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\productos\frmagregarproductos.cs
+++FrmConsultarProducto.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\productos\frmconsultarproducto.cs
+++FrmAgregarProveedor.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\proveedores\frmagregarproveedor.cs
+++FrmConsultarProveedor.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\proveedores\frmconsultarproveedor.cs
+++FrmPrincipal.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\frmprincipal.designer.cs
+++FrmPrincipal.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\frmprincipal.resx
+++Datos_reporte.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\datos_reporte.designer.cs
+++Datos_reporte.xsc
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\datos_reporte.xsc
+++Datos_reporte.xss
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\datos_reporte.xss
+++ReporteVentas.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\reporteventas.designer.cs
+++ReporteVentas.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\reportes\reporteventas.resx
+++msvcr120.dll
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\x64\msvcr120.dll
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\x86\msvcr120.dll
+++SqlServerSpatial140.dll
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\x64\sqlserverspatial140.dll
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\sqlservertypes\x86\sqlserverspatial140.dll
+++FrmError.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmerror.designer.cs
+++FrmError.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmerror.resx
+++FrmExito.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmexito.designer.cs
+++FrmExito.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmexito.resx
+++FrmSalir.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir.designer.cs
+++FrmSalir.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir.resx
+++FrmSalir2.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir2.designer.cs
+++FrmSalir2.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir2.resx
+++FrmSalir3.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir3.designer.cs
+++FrmSalir3.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\avisos\frmsalir3.resx
+++FrmAgregarClientes.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmagregarclientes.designer.cs
+++FrmAgregarClientes.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmagregarclientes.resx
+++FrmConsultarClientes.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmconsultarclientes.designer.cs
+++FrmConsultarClientes.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmconsultarclientes.resx
+++FrmModificarCliente.Designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmmodificarcliente.designer.cs
+++FrmModificarCliente.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\clientes\frmmodificarcliente.resx
+++FrmConsultarVentas.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmconsultarventas.designer.cs
+++FrmConsultarVentas.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmconsultarventas.resx
+++FrmFacturaciones.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturaciones.designer.cs
+++FrmFacturacionesBusqueda.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturacionesbusqueda.designer.cs
+++FrmFacturacionesBusqueda.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturacionesbusqueda.resx
+++FrmFacturacionesReceta.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturacionesreceta.designer.cs
+++FrmFacturacionesReceta.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\facturaciones\frmfacturacionesreceta.resx
+++FrmLogin.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\login\frmlogin.designer.cs
+++FrmLogin.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\login\frmlogin.resx
+++FrmUsuario.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\login\frmusuario.designer.cs
+++FrmUsuario.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\login\frmusuario.resx
+++FrmAgregarPedidos.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\pedidos\frmagregarpedidos.designer.cs
+++FrmAgregarPedidos.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\pedidos\frmagregarpedidos.resx
+++FrmConsultarPedido.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\pedidos\frmconsultarpedido.designer.cs
+++FrmConsultarPedido.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\pedidos\frmconsultarpedido.resx
+++FrmAgregarProductos.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\productos\frmagregarproductos.designer.cs
+++FrmAgregarProductos.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\productos\frmagregarproductos.resx
+++FrmConsultarProducto.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\productos\frmconsultarproducto.designer.cs
+++FrmConsultarProducto.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\productos\frmconsultarproducto.resx
+++FrmAgregarProveedor.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\proveedores\frmagregarproveedor.designer.cs
+++FrmAgregarProveedor.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\proveedores\frmagregarproveedor.resx
+++FrmConsultarProveedor.designer.cs
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\proveedores\frmconsultarproveedor.designer.cs
+++FrmConsultarProveedor.resx
+i:{1659f280-fe60-4514-8d31-c5a7c862595d}:c:\users\joseg\onedrive\documentos\utn cba\tp ii\tp_de_pepas\tppepas\presentaciones 2\proveedores\frmconsultarproveedor.resx
